@@ -1,6 +1,6 @@
 
 
-This repository showcases a web development project built with Gulp to automate essential tasks. The project demonstrates key skills, such as working with SCSS, live browser reloads, vendor prefixing, style optimization, and JavaScript animations (falling stars effect).
+This repository showcases a web development project built with Gulp to automate essential tasks. The project demonstrates key skills, such as working with SCSS, live browser reloads, vendor prefixing, style optimization.
 Features
 
     🎨 SCSS compilation into CSS for a flexible and efficient styling process.
@@ -11,7 +11,6 @@ Features
 
     🛠️ Minimized and optimized CSS files for faster load times.
 
-    ✨ Stunning falling stars animation with FontAwesome and JavaScript.
 
 Folder Structure
 project/
@@ -19,9 +18,8 @@ project/
 ├── src/               # Source files
 │   ├── scss/          # SCSS files
 │   │   ├── styles.scss  # Main SCSS file
-│   │   └── stars.scss   # Falling stars styles
 │   ├── js/            # JavaScript files
-│   │   └── script.js    # Falling stars logic
+│   │   └── script.js    # JS
 │   └── index.html     # HTML entry point
 │
 ├── dist/              # Compiled and output files
